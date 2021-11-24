@@ -17,13 +17,7 @@ __2018 - Suggested Method__ (VBA_Challenge_2018.png)
 
 ![2018 - Suggested Method](/Resources/VBA_Challenge_2018.png)
 
-
-### __NOTE__
-***My previous challenge submission (Dated Nov 17 at 10:59am), erroneously represented a better implementation as compared to my approach, the fact that I was updating the cells in the target worksheet from wihin the loop where I was doing the calculations and identifying starting and ending prices in the suggested approach, was showing a longer time that made look for a better solution, so I have taken that update outside that loop obtaining the desired results, my apologies***
-
 ## Summary
-***__Assignement was re-Submited__***
-
 So far the results showed by the suggested implementation as compared with the previous class excercise shows a significant improvement, the right code will always be the with the less amount of lines, linear, easy to understand and that does the job better than the previous approach, we would have to test it with a more large data set. Like I've previously said, I would  at least 1 more thing and that is to include the validation of the provided year or worksheet name via the `InputBox` to make sure the worksheet exists.
 
 Thanks a lot to the evaluator for his/her advice which made get back to review my code, that forced me to think further.
